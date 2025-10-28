@@ -51,7 +51,7 @@ Cities including **Imphal**, **Kavali**, and **Dhanbad** contributed significant
 Below are the visuals derived from the Excel dashboard and pivot tables:
 
 ![Dashboard Overview](Demo%20Fnp%20Analysis/dashboard.jpeg)
-![Pivot Table](Demo%20Fnp%20Analysis/dashboard.jpeg)
+![Pivot Table](Demo%20Fnp%20Analysis/pivot%20tables.jpeg)
 
 
 ---
