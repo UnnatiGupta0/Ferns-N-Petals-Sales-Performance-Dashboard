@@ -50,9 +50,15 @@ Cities including **Imphal**, **Kavali**, and **Dhanbad** contributed significant
 ## 🖼️ Dashboard & Visuals
 Below are the visuals derived from the Excel dashboard and pivot tables:
 
-![Dashboard Overview]()
-![Pivot Table]()
+![Dashboard Overview](dashboard.jpeg)
+![Pivot Table](pivot%20tables.jpeg)
 
+
+---
+
+## 🎥 Dashboard Video Walkthrough
+Watch the interactive dashboard in action below:  
+[View Dashboard Demo Video](demo%20rec%20of%20interactive%20dashboard%20.mp4)
 
 ---
 
@@ -63,7 +69,7 @@ Below are the visuals derived from the Excel dashboard and pivot tables:
 - **Raw Dataset:** Orders, products, and customer details used for analysis.  
 - **Repository Documentation:** Problem Statement, Analysis, and Executive Summary files for clarity and structure.
 
-📂 [Download FNP_Sales_Analysis.xlsx]()
+📂 [Download FNP_Sales_Analysis.xlsx](Ferns&Petals%20Sales%20Analysis.xlsx)
 
 ---
 
