@@ -113,8 +113,8 @@ It provides a **complete data-to-insight workflow** that helps businesses unders
 
 ## 👩‍💻 Author
 **Unnati Gupta**  
-📍 Mechanical and Automation Engineering, IGDTUW  
+📍 B.Tech IGDTUW  
 📊 Data Analyst | Dashboard Developer | Excel Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/unnatigupta0)
+🔗 [LinkedIn](https://www.linkedin.com/in/unnati-gupta-5423b12b0/)
 
 ---
