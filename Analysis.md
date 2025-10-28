@@ -50,15 +50,15 @@ Cities including **Imphal**, **Kavali**, and **Dhanbad** contributed significant
 ## 🖼️ Dashboard & Visuals
 Below are the visuals derived from the Excel dashboard and pivot tables:
 
-![Dashboard Overview](dashboard.jpeg)
-![Pivot Table](pivot%20tables.jpeg)
+![Dashboard Overview](Demo%20Fnp%20Analysis/dashboard.jpeg)
+![Pivot Table](Demo%20Fnp%20Analysis/dashboard.jpeg)
 
 
 ---
 
 ## 🎥 Dashboard Video Walkthrough
 Watch the interactive dashboard in action below:  
-[View Dashboard Demo Video](demo%20rec%20of%20interactive%20dashboard%20.mp4)
+[View Dashboard Demo Video](https://github.com/UnnatiGupta0/Ferns-N-Petals-Sales-Performance-Dashboard/blob/main/Demo%20Fnp%20Analysis/demo%20rec%20of%20interactive%20dashboard%20.mp4?raw=true)
 
 ---
 
@@ -69,7 +69,7 @@ Watch the interactive dashboard in action below:
 - **Raw Dataset:** Orders, products, and customer details used for analysis.  
 - **Repository Documentation:** Problem Statement, Analysis, and Executive Summary files for clarity and structure.
 
-📂 [Download FNP_Sales_Analysis.xlsx](Ferns&Petals%20Sales%20Analysis.xlsx)
+📂 [Download FNP_Sales_Analysis.xlsx](https://github.com/UnnatiGupta0/Ferns-N-Petals-Sales-Performance-Dashboard/blob/main/Demo%20Fnp%20Analysis/Ferns%26Petals%20Sales%20Analysis.xlsx?raw=true)
 
 ---
 
